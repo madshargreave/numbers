@@ -1,0 +1,4 @@
+{
+    "packages": ["app/*", "leasing/*"],
+    "version": "0.0.0"
+}

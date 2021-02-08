@@ -1,0 +1,22 @@
+{
+    "name": "lease-worker",
+    "version": "0.0.0",
+    "description": "> TODO: description",
+    "author": "mads hargreave <mads.hargreave@gmail.com>",
+    "homepage": "",
+    "license": "ISC",
+    "main": "lib/index.ts",
+    "directories": {
+        "lib": "lib",
+        "test": "test"
+    },
+    "files": [
+        "lib"
+    ],
+    "publishConfig": {
+        "registry": "http://registry.npmjs.org/"
+    },
+    "scripts": {
+        "test": "echo \"Error: run tests from root\" && exit 1"
+    }
+}
